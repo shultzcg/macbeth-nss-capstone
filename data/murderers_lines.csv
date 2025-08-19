@@ -1,0 +1,5 @@
+line_number,speaker,text,act,scene,scene_id,act_scene,neg,neu,pos,compound,vader_label,rolling_compound,rolling_intensity,rolling_volatility,speech_id,weighted_compound,rolling_weighted,is_pos,is_neg,roll_pos_minus_neg,diff_vs_play_w21,diff_vs_play_w11,rolling_within_speech
+1744,Murderers,Where is your husband?,4,2,19,"Act 4, Scene 2",0.0,1.0,0.0,0.0,neu,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,0.04839047619047615,0.00526363636363642,0.0
+1747,Murderers,He’s a traitor.,4,2,19,"Act 4, Scene 2",0.0,1.0,0.0,0.0,neu,0.0,0.0,0.0,1,0.0,0.0,0,0,0.0,0.042047619047619014,0.05999090909090914,0.0
+1749,Murderers,"What, you egg?",4,2,19,"Act 4, Scene 2",0.0,1.0,0.0,0.0,neu,0.0,0.0,0.0,2,0.0,0.0,0,0,0.0,0.06018095238095235,0.0702454545454546,0.0
+1750,Murderers,Young fry of treachery!,4,2,19,"Act 4, Scene 2",0.0,1.0,0.0,0.0,neu,0.0,0.0,0.0,2,0.0,0.0,0,0,0.0,0.06108095238095235,0.14501818181818188,0.0
