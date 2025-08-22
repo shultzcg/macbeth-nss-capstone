@@ -1,7 +1,0 @@
-line_number,speaker,text,act,scene,scene_id,act_scene,neg,neu,pos,compound,vader_label,rolling_compound,rolling_intensity,rolling_volatility,speech_id,weighted_compound,rolling_weighted,is_pos,is_neg,roll_pos_minus_neg,diff_vs_play_w21,diff_vs_play_w11,rolling_within_speech
-1002,Servant,"They are, my lord, without the palace gate.",3,1,12,"Act 3, Scene 1",0.0,1.0,0.0,0.0,neu,0.0762,0.0,0.0,0,0.0,0.03483864,0,0,0.16666666666666666,-0.05216666666666668,0.011136363636363666,0.0
-1116,Servant,"Ay, madam, but returns again tonight.",3,2,13,"Act 3, Scene 2",0.0,1.0,0.0,0.0,neu,0.0762,0.0,0.0,1,0.0,0.03483864,0,0,0.16666666666666666,0.05081428571428569,-0.04349999999999997,0.0
-1119,Servant,"Madam, I will.",3,2,13,"Act 3, Scene 2",0.0,1.0,0.0,0.0,neu,0.0762,0.0,0.0,2,0.0,0.03483864,0,0,0.16666666666666666,0.02539999999999997,0.05053636363636366,0.0
-2170,Servant,There is ten thousand—,5,3,23,"Act 5, Scene 3",0.0,1.0,0.0,0.0,neu,0.0762,0.09144,0.20446605586258076,3,0.0,0.03483864,0,0,0.16666666666666666,0.14616666666666667,0.20401818181818193,0.0
-2172,Servant,"Soldiers, sir.",5,3,23,"Act 5, Scene 3",0.0,1.0,0.0,0.0,neu,0.0762,0.1143,0.22859999999999997,4,0.0,0.03483864,0,0,0.16666666666666666,0.12185238095238093,0.2652545454545456,0.0
-2177,Servant,"The English force, so please you.",5,3,23,"Act 5, Scene 3",0.0,0.626,0.374,0.4572,pos,0.0762,0.1524,0.26396454307349687,5,0.20903184,0.03483864,1,0,0.16666666666666666,0.09459523809523807,0.12608181818181824,0.4572

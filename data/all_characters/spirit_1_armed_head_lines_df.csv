@@ -1,0 +1,3 @@
+line_number,speaker,text,act,scene,scene_id,act_scene,neg,neu,pos,compound,vader_label,rolling_compound,rolling_intensity,rolling_volatility,speech_id,weighted_compound,rolling_weighted,is_pos,is_neg,roll_pos_minus_neg,diff_vs_play_w21,diff_vs_play_w11,rolling_within_speech
+1559,Spirit 1: Armed Head,Macbeth! Macbeth! Macbeth! Beware Macduff!,4,1,18,"Act 4, Scene 1",0.0,1.0,0.0,0.0,neu,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,-0.02646666666666669,-0.038827272727272676,0.0
+1560,Spirit 1: Armed Head,Beware the Thane of Fife! Dismiss me. Enough.,4,1,18,"Act 4, Scene 1",0.0,1.0,0.0,0.0,neu,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,-0.0006428571428571672,-0.038827272727272676,0.0
